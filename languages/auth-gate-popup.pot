@@ -1,0 +1,226 @@
+# Copyright (C) 2026 Lawrance Babu Gain
+# This file is distributed under the GPL-2.0-or-later.
+msgid ""
+msgstr ""
+"Project-Id-Version: Auth Gate Popup 1.1.0\n"
+"Report-Msgid-Bugs-To: https://wordpress.org/support/plugin/auth-gate-popup\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"POT-Creation-Date: 2026-09-29T15:08:45+00:00\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"X-Generator: WP-CLI 2.12.0\n"
+"X-Domain: auth-gate-popup\n"
+
+#. Plugin Name of the plugin
+#: auth-gate-popup.php
+#: auth-gate-popup.php:186
+#: auth-gate-popup.php:187
+#: auth-gate-popup.php:249
+msgid "Auth Gate Popup"
+msgstr ""
+
+#. Plugin URI of the plugin
+#: auth-gate-popup.php
+msgid "https://github.com/lawrancebabu/auth-gate-popup"
+msgstr ""
+
+#. Description of the plugin
+#: auth-gate-popup.php
+msgid "Forces visitors to create an account or log in before accessing the site, and requires login before WooCommerce purchases."
+msgstr ""
+
+#. Author of the plugin
+#: auth-gate-popup.php
+msgid "Lawrance Babu Gain"
+msgstr ""
+
+#. Author URI of the plugin
+#: auth-gate-popup.php
+msgid "https://github.com/lawrancebabu"
+msgstr ""
+
+#: auth-gate-popup.php:231
+msgid "Select popup image"
+msgstr ""
+
+#: auth-gate-popup.php:232
+msgid "Use this image"
+msgstr ""
+
+#: auth-gate-popup.php:255
+msgid "Popup image"
+msgstr ""
+
+#: auth-gate-popup.php:266
+msgid "Select Image"
+msgstr ""
+
+#: auth-gate-popup.php:267
+msgid "Leave empty to use the bundled default artwork. Recommended size is about 790 x 686."
+msgstr ""
+
+#: auth-gate-popup.php:280
+msgid "Image alt text"
+msgstr ""
+
+#: auth-gate-popup.php:294
+msgid "Base color"
+msgstr ""
+
+#: auth-gate-popup.php:304
+msgid "Default: #053776"
+msgstr ""
+
+#: auth-gate-popup.php:309
+msgid "Registration terms text"
+msgstr ""
+
+#: auth-gate-popup.php:318
+msgid "Shown next to the checkbox on the Sign Up form. Links (a), strong and em tags are allowed. Leave empty to hide the checkbox."
+msgstr ""
+
+#: auth-gate-popup.php:322
+msgid "Require terms checkbox"
+msgstr ""
+
+#: auth-gate-popup.php:333
+msgid "Visitors must tick the terms checkbox to create an account."
+msgstr ""
+
+#: auth-gate-popup.php:410
+msgid "Please wait..."
+msgstr ""
+
+#: auth-gate-popup.php:411
+msgid "Something went wrong. Please try again."
+msgstr ""
+
+#: auth-gate-popup.php:432
+msgid "Login or Create Account"
+msgstr ""
+
+#: auth-gate-popup.php:442
+#: auth-gate-popup.php:463
+msgid "Login"
+msgstr ""
+
+#: auth-gate-popup.php:443
+#: auth-gate-popup.php:505
+msgid "Sign Up"
+msgstr ""
+
+#: auth-gate-popup.php:452
+#: auth-gate-popup.php:453
+#: auth-gate-popup.php:471
+#: auth-gate-popup.php:472
+msgid "Email Address"
+msgstr ""
+
+#: auth-gate-popup.php:456
+#: auth-gate-popup.php:457
+#: auth-gate-popup.php:496
+#: auth-gate-popup.php:497
+msgid "Password"
+msgstr ""
+
+#: auth-gate-popup.php:460
+msgid "Remember me"
+msgstr ""
+
+#: auth-gate-popup.php:461
+msgid "Forgot Password?"
+msgstr ""
+
+#: auth-gate-popup.php:469
+msgid "Lost your password? Please enter your email address. You will receive a link to create a new password via email."
+msgstr ""
+
+#: auth-gate-popup.php:474
+msgid "Email Reset Link"
+msgstr ""
+
+#: auth-gate-popup.php:475
+msgid "Back to Login"
+msgstr ""
+
+#: auth-gate-popup.php:483
+#: auth-gate-popup.php:484
+msgid "First Name"
+msgstr ""
+
+#: auth-gate-popup.php:487
+#: auth-gate-popup.php:488
+msgid "Last Name"
+msgstr ""
+
+#: auth-gate-popup.php:492
+#: auth-gate-popup.php:493
+msgid "Email address"
+msgstr ""
+
+#: auth-gate-popup.php:530
+msgid "Invalid email address or password."
+msgstr ""
+
+#: auth-gate-popup.php:533
+msgid "Login successful."
+msgstr ""
+
+#: auth-gate-popup.php:546
+msgid "Please enter your email address."
+msgstr ""
+
+#: auth-gate-popup.php:555
+msgid "Password reset email sent. Please check your inbox."
+msgstr ""
+
+#: auth-gate-popup.php:577
+msgid "Registration is currently disabled. Enable it in WordPress settings."
+msgstr ""
+
+#: auth-gate-popup.php:592
+msgid "Please enter your first and last name."
+msgstr ""
+
+#: auth-gate-popup.php:596
+msgid "Please accept the terms to create an account."
+msgstr ""
+
+#: auth-gate-popup.php:600
+msgid "Please enter a valid email address."
+msgstr ""
+
+#: auth-gate-popup.php:604
+msgid "An account already exists with that email address."
+msgstr ""
+
+#: auth-gate-popup.php:608
+msgid "Password must be at least 8 characters."
+msgstr ""
+
+#: auth-gate-popup.php:633
+msgid "Account created successfully."
+msgstr ""
+
+#: auth-gate-popup.php:648
+msgid "Please log in or create an account before purchasing."
+msgstr ""
+
+#: auth-gate-popup.php:670
+msgid "Security check failed. Please refresh and try again."
+msgstr ""
+
+#: auth-gate-popup.php:741
+msgid "Password changed successfully. Please log in with your new password."
+msgstr ""
+
+#: auth-gate-popup.php:781
+msgid "Sign in to continue"
+msgstr ""
+
+#: auth-gate-popup.php:783
+msgid "I agree to the Terms of Service and Privacy Policy."
+msgstr ""
